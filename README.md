@@ -2,4 +2,4 @@
 
 Assignments for the *Introduction of Artificial Intelligence* course.
 
-- [minimax](minimax.html)
+- [minimax](https://www.geoteo.net/teambroglio-ai/minimax.html)
